@@ -59,13 +59,12 @@ http://localhost:5173/
 
 ## 📸 Screenshots
 
-![Event Photo QR Portal](assets/screenshot.png)
 <img width="1920" height="1080" alt="Screenshot 2026-02-04 205623" src="https://github.com/user-attachments/assets/c48a3f32-6e75-4be7-82fa-c8583272c128" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-04 204307" src="https://github.com/user-attachments/assets/3a928210-a06f-476c-bead-a321ecd93742" />
 
 ## 🔗 Live Demo
 
-Check the live project here: [Event Photo QR Portal](https://your-hosting-link.com)
+Check the live project here: [Event Photo QR Portal](https://merry-kulfi-b5d485.netlify.app/)
 
 📂 Folder Structure
 src/
